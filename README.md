@@ -1,4 +1,4 @@
-# Docker & Redis — Level 2 Learning Notes
+# Docker & Redis — Learning Notes
 
 A hands-on learning repository covering **Redis fundamentals and practical Redis use cases** in a Node.js/Express backend. This level builds on the Docker concepts from Level 1 and demonstrates how to run Redis with Docker Compose and integrate it into a backend application.
 
@@ -241,5 +241,6 @@ This repository is intended for learning and hands-on practice. The exact files,
 ## License
 
 This repository is for educational purposes. Add a license file if you intend to distribute or reuse the code publicly.
-#   R e d i s  
+#   R e d i s 
+ 
  
